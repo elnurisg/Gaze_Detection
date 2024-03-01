@@ -1,0 +1,16 @@
+## file
+build/cmake_install.cmake
+build/CMakeCashe.txt
+
+## object files
+*.o
+*.xml
+*.json
+
+## folder
+.vscode/
+build/.cmake/api/v1/
+build/CMakeFiles/
+
+## executable files
+build/eye_tracking
