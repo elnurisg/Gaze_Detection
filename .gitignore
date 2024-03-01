@@ -1,6 +1,6 @@
 ## file
 build/cmake_install.cmake
-build/CMakeCashe.txt
+build/CMakeCache.txt
 
 ## object files
 *.o
